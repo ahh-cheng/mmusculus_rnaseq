@@ -1,5 +1,5 @@
 # mmusculus_rnaseq
-codes for processing RNAseq data with SLURM
+codes for processing RNAseq data with SLURM and R
 
 `data_processing` contains BASH scripts for `fastq` files processing, quality checking, alignment, and read counting. Also contains codes for data analysis using R.
 
